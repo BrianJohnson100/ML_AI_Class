@@ -40,7 +40,7 @@ Income upper bound:<br>
 **HOW DO I GET THE LINK TO GO DIRECTLY TO THE IPYNB FILE?**
 
 **Website:**
-[Assignment 5.1 work product](https://github.com/BrianJohnson100/ML_AI_Class)
+[Assignment 5.1 work product](https://github.com/BrianJohnson100/ML_AI_Class/blob/main/coupon_analysis_10_14_2025.ipynb?short_path=ef19478)
 
 
 **Getting Started (Using this Repository)**
