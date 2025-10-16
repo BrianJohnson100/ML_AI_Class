@@ -11,25 +11,25 @@ Context My objective is to understand the factors that influence a drivers decis
 
 **Getting Started (Using the Repo)**
 
-1.  Clone the repo
+***1.  Clone the repo***
 ```bash
 git clone https://github.com/BrianJohnson100/ML_AI_Class
 cd  ML_AI_Class
 ```
 
-2.  (Optional) Create a virtual environment
+***2.  (Optional) Create a virtual environment***
 ```bash
 python3 -m venv .venv
 source .venv/bin/activate   # On Mac/Linux
 .venv\Scripts\activate      # On Windows
 ```
 
-3. Install dependencies
+***3. Install dependencies***
 ```bash
 pip install -r requirements.txt
 ```
 
-3. Launch Jupyter Notebook
+***4. Launch Jupyter Notebook***
 ```bash
 jupyter notebook
 ```
