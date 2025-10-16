@@ -36,7 +36,7 @@ time_24h:<br>
 Income lower bound:<br>
 Income upper bound:<br>
 *
-#HOW DO I GET THE LINK TO GO DIRECTLY TO THE IPYNB FILE?#
+**HOW DO I GET THE LINK TO GO DIRECTLY TO THE IPYNB FILE?**
 
 **Website:**
 [Assignment 5.1 work product](https://github.com/BrianJohnson100/ML_AI_Class)
