@@ -1,5 +1,5 @@
 
-#UC Berkeley Extension - Professional Certificate in AI & Machine Learning#
+**UC Berkeley Extension - Professional Certificate in AI & Machine Learning**
 
 **Assignment:** What factors contribute to a customer accepting the coupon?
 Context My objective is to understand the factors that influence a drivers decision to accept a location-based mobile coupon while driving. I aim to explore how variables such as the type of business (e.g., restaurant, bar, coffee house), the presence of passengers (including minors), proximity to the business, weather conditions, and time of day affect coupon acceptance behavior. By analyzing these factorsL, I intend to develop a predictive model or framework that can determine the likelihood of a driver accepting a coupon once it is delivered to them.
