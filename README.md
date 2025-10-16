@@ -53,9 +53,9 @@ cd  ML_AI_Class
 
 ***2.  (Optional) Create a virtual environment***
 ```bash
-python3 -m venv .venv
+python -m venv .venv
 source .venv/bin/activate   # On Mac/Linux
-.venv\Scripts\activate      # On Windows
+.venv/Scripts/activate      # On Windows
 ```
 
 ***3. Install dependencies***
