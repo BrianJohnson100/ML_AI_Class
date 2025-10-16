@@ -7,34 +7,34 @@ Context My objective is to understand the factors that influence a drivers decis
 **My goal:** in this project is to apply my understanding of visualizations and probability distributions to effectively distinguish between customers who accepted a driving coupon and those who did not. By analyzing patterns in the data, I aim to uncover meaningful insights that can help predict coupon acceptance behavior.*
 
 **Data Dictionary:**
-*Destination:
-Passenger:
-Weather:
-Temperature:
-Time:
-Coupon_Type:
-Expiration_Date
-Gender:
-Age:
-Marital_Status:
-Has_Children:
-Education_Level:
-Occupation_Type:
-Car:
-Bar_Frequency:
-CoffeeHouse:
-CarryAway:
-RestaurantLessThan20:
-Restaurant20To50
-Coupon_GEQ5min:
-Coupon_GEQ15min:
-Coupon_GEQ25min:
-Direction_Same:
-Direction_opp:
-Coupon_Acceptance:
-time_24h:
-Income lower bound:
-Income upper bound:
+*Destination:<br>
+Passenger:<br>
+Weather:<br>
+Temperature:<br>
+Time:<br>
+Coupon_Type:<br>
+Expiration_Date<br>
+Gender:<br>
+Age:<br>
+Marital_Status:<br>
+Has_Children:<br>
+Education_Level:<br>
+Occupation_Type:<br>
+Car:<br>
+Bar_Frequency:<br>
+CoffeeHouse:<br>
+CarryAway:<br>
+RestaurantLessThan20:<br>
+Restaurant20To50<br>
+Coupon_GEQ5min:<br>
+Coupon_GEQ15min:<br>
+Coupon_GEQ25min:<br>
+Direction_Same:<br>
+Direction_opp:<br>
+Coupon_Acceptance:<br>
+time_24h:<br>
+Income lower bound:<br>
+Income upper bound:<br>
 *
 **Website:**
 [Assignment 5.1 work product](https://github.com/BrianJohnson100/ML_AI_Class)
