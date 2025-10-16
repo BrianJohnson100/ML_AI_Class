@@ -36,7 +36,7 @@ time_24h:<br>
 Income lower bound:<br>
 Income upper bound:<br>
 *
-
+#HOW DO I GET THE LINK TO GO DIRECTLY TO THE IPYNB FILE?#
 
 **Website:**
 [Assignment 5.1 work product](https://github.com/BrianJohnson100/ML_AI_Class)
@@ -66,3 +66,4 @@ pip install -r requirements.txt
 ```bash
 jupyter notebook
 ```
+This opens a web page in the browser where you can then navigate into your notebooks/ folder and click on a notebook e.g. coupon_analysis_10_14_2025.ipynb.
