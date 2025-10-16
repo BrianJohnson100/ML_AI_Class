@@ -9,7 +9,7 @@ Context My objective is to understand the factors that influence a drivers decis
 **Website**
 [Assignment 5.1 work product](https://github.com/BrianJohnson100/ML_AI_Class)
 
-**Getting Started (Using the Repo)**
+**Getting Started (Using this Repository)**
 
 ***1.  Clone the repo***
 ```bash
