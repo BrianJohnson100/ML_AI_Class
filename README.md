@@ -6,7 +6,7 @@ Context My objective is to understand the factors that influence a drivers decis
 
 **My goal:** in this project is to apply my understanding of visualizations and probability distributions to effectively distinguish between customers who accepted a driving coupon and those who did not. By analyzing patterns in the data, I aim to uncover meaningful insights that can help predict coupon acceptance behavior.*
 
-**Data Dictionary:**
+**Data Dictionary:<br>**
 *Destination:<br>
 Passenger:<br>
 Weather:<br>
