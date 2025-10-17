@@ -7,35 +7,35 @@ Context My objective is to understand the factors that influence a drivers decis
 **My goal:** in this project is to apply my understanding of visualizations and probability distributions to effectively distinguish between customers who accepted a driving coupon and those who did not. By analyzing patterns in the data, I aim to uncover meaningful insights that can help predict coupon acceptance behavior.*
 
 **Data Dictionary:<br>**
-*Destination:<br>
-Passenger:<br>
-Weather:<br>
-Temperature:<br>
-Time:<br>
-Coupon_Type:<br>
-Expiration_Date<br>
-Gender:<br>
-Age:<br>
-Marital_Status:<br>
-Has_Children:<br>
-Education_Level:<br>
-Occupation_Type:<br>
-Car:<br>
-Bar_Frequency:<br>
-CoffeeHouse:<br>
-CarryAway:<br>
+Destination:        Indicates where the person is traveling to (No Urgent Place, Work, or Home).<br>
+Passenger:          Indicates if passengers are Friends, Kid(S), or the driver is alone.<br>
+Weather:            The type of weather, Sunny,Rainy or Snowy.<br>
+Temperature:        Indicates the temperature degrees: (30, 55 or 80).<br>
+Time:               Indicates coupon was offered: (10:00AM/PM, 7:00AM, 2:00PM or 3:00PM.<br>
+Coupon_Type:        Indicates <br>
+Expiration Time Period  Indicates If it's 1 day or 2 hours.<br>
+Gender:             Indicates if Male or Female.<br>
+Age:                <br>
+Marital Status:     <br>
+Has Children:       <br>
+Education Level:    <br>
+Occupation Type:    <br>
+Car:                <br>
+Bar_Frequency:      <br>
+CoffeeHouse:        <br>
+CarryAway:          <br>
 RestaurantLessThan20:<br>
-Restaurant20To50<br>
-Coupon_GEQ5min:<br>
-Coupon_GEQ15min:<br>
-Coupon_GEQ25min:<br>
-Direction_Same:<br>
-Direction_opp:<br>
-Coupon_Acceptance:<br>
-time_24h:<br>
-Income lower bound:<br>
-Income upper bound:<br>
-*
+Restaurant20To50     <br>
+Coupon_GEQ5min:     <br>
+Coupon_GEQ15min:    <br>
+Coupon_GEQ25min:    <br>
+Direction_Same:     <br>
+Direction_opp:      <br>
+Coupon_Acceptance:  <br>
+time_24h:           <br>
+Income lower bound: <br>
+Income upper bound: <br>
+
 
 **HOW DO I GET THE LINK TO GO DIRECTLY TO THE IPYNB FILE?**
 
