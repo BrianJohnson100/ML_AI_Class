@@ -8,7 +8,7 @@ Context My objective is to understand the factors that influence a drivers decis
 
 **Data Dictionary:<br>**
 *Destination:        Indicates where the person is traveling to (No Urgent Place, Work, or Home).<br>*
-Passenger:          Indicates if passengers are Friends, Kid(S), or the driver is alone.<br>
+***Passenger:          Indicates if passengers are Friends, Kid(S), or the driver is alone.<br>***
 Weather:            The type of weather, Sunny,Rainy or Snowy.<br>
 Temperature:        Indicates the temperature degrees: (30, 55 or 80).<br>
 Time:               Indicates coupon was offered: (10:00AM/PM, 7:00AM, 2:00PM or 3:00PM.<br>
