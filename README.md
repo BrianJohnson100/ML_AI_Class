@@ -7,7 +7,7 @@ Context My objective is to understand the factors that influence a drivers decis
 **My goal:** in this project is to apply my understanding of visualizations and probability distributions to effectively distinguish between customers who accepted a driving coupon and those who did not. By analyzing patterns in the data, I aim to uncover meaningful insights that can help predict coupon acceptance behavior.*
 
 **Data Dictionary:<br>**
-Destination:        Indicates where the person is traveling to (No Urgent Place, Work, or Home).<br>
+*Destination:        Indicates where the person is traveling to (No Urgent Place, Work, or Home).<br>*
 Passenger:          Indicates if passengers are Friends, Kid(S), or the driver is alone.<br>
 Weather:            The type of weather, Sunny,Rainy or Snowy.<br>
 Temperature:        Indicates the temperature degrees: (30, 55 or 80).<br>
