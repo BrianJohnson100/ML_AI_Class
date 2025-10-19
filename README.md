@@ -34,7 +34,7 @@ Context My objective is to understand the factors that influence a drivers decis
 **HOW DO I GET THE LINK TO GO DIRECTLY TO THE IPYNB FILE?**
 
 **Website:**
-[Assignment 5.1 work product](https://github.com/BrianJohnson100/ML_AI_Class/blob/main/coupon_analysis_10_14_2025.ipynb?short_path=ef19478)
+[Assignment 5.1 work product](https://github.com/BrianJohnson100/ML_AI_Class/blob/main/Final_Version.ipynb)
 
 
 **Getting Started (Using this Repository)**
