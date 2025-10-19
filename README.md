@@ -61,4 +61,4 @@ pip install -r requirements.txt
 ```bash
 jupyter notebook
 ```
-This opens a web page in the browser where you can then navigate into your notebooks/ folder and click on a notebook e.g. coupon_analysis_10_14_2025.ipynb.
+This opens a web page in the browser where you can then navigate into your notebooks/ folder and click on a notebook. eg.,.Final_Version.ipynb.
